@@ -109,8 +109,8 @@
     "mathjs": "^15.2.0",
     "sharp": "^0.35.4",
     "terminal-image": "^2.0.0",
-    "undici": "^8.12.3",
-    "valibot": "1.1.0",
+    "undici": "^8.12.4",
+    "valibot": "1.4.2",
     "workflow": "5.1.0",
     "ws": "^8.21.0",
     "zod": "4.6.7"
